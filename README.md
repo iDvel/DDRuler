@@ -11,17 +11,15 @@
 
 实现基本效果，精确判断当前刻度的位置，四舍五入：
 
-![](./demo1.gif)
-
-
+<img src="./demo1.gif" width="30%" height="30%">
 
 点击跳转：
 
-![](./demo2.gif)
-
+<img src="./demo2.gif" width="30%" height="30%">
 
 
 精确刻度跳转：
 
-![](./demo3.gif)
+<img src="./demo3.gif" width="30%" height="30%">
+
 
