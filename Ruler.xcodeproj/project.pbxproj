@@ -13,6 +13,7 @@
 		34350C79214F4A35000741ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 34350C78214F4A35000741ED /* Assets.xcassets */; };
 		34350C7C214F4A35000741ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34350C7A214F4A35000741ED /* LaunchScreen.storyboard */; };
 		34350C7F214F4A35000741ED /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 34350C7E214F4A35000741ED /* main.m */; };
+		34CB806A214F4CD300EBE727 /* DDRulerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34CB8069214F4CD300EBE727 /* DDRulerView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		34350C7B214F4A35000741ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		34350C7D214F4A35000741ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34350C7E214F4A35000741ED /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		34CB8068214F4CD300EBE727 /* DDRulerView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DDRulerView.h; sourceTree = "<group>"; };
+		34CB8069214F4CD300EBE727 /* DDRulerView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DDRulerView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				34350C70214F4A34000741ED /* AppDelegate.m */,
 				34350C72214F4A34000741ED /* ViewController.h */,
 				34350C73214F4A34000741ED /* ViewController.m */,
+				34CB8068214F4CD300EBE727 /* DDRulerView.h */,
+				34CB8069214F4CD300EBE727 /* DDRulerView.m */,
 				34350C75214F4A34000741ED /* Main.storyboard */,
 				34350C78214F4A35000741ED /* Assets.xcassets */,
 				34350C7A214F4A35000741ED /* LaunchScreen.storyboard */,
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34350C74214F4A34000741ED /* ViewController.m in Sources */,
+				34CB806A214F4CD300EBE727 /* DDRulerView.m in Sources */,
 				34350C7F214F4A35000741ED /* main.m in Sources */,
 				34350C71214F4A34000741ED /* AppDelegate.m in Sources */,
 			);
